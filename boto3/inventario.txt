@@ -1,0 +1,8 @@
+📊 INVENTARIO AWS
+
+🖥️ EC2:
+i-0bd52d6196ffdcb38 | running | t3.micro
+Total EC2: 1
+
+📦 S3:
+Total buckets: 0

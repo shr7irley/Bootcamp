@@ -1,0 +1,12 @@
+ARN,Servicio,Tags
+arn:aws:events:us-west-2:909669698956:rule/voc-bedrock-cw-rule,events,[]
+arn:aws:lambda:us-west-2:909669698956:function:MonitoringFunction,lambda,"[{'Key': 'aws:cloudformation:stack-name', 'Value': 'c198715a5083510l13705438t1w909669698956'}, {'Key': 'aws:cloudformation:stack-id', 'Value': 'arn:aws:cloudformation:us-west-2:909669698956:stack/c198715a5083510l13705438t1w909669698956/6c2080a0-2319-11f1-9047-0278ba747e7d'}, {'Key': 'cloudlab', 'Value': 'c198715a5083510l13705438t1w909669698956'}, {'Key': 'aws:cloudformation:logical-id', 'Value': 'MonitoringFunction'}]"
+arn:aws:events:us-west-2:909669698956:rule/voc-redshiftserverlessapi-cw-rule,events,[]
+arn:aws:cloudformation:us-west-2:909669698956:stack/c198715a5083510l13705438t1w909669698956/6c2080a0-2319-11f1-9047-0278ba747e7d,cloudformation,"[{'Key': 'cloudlab', 'Value': 'c198715a5083510l13705438t1w909669698956'}]"
+arn:aws:ec2:us-west-2:909669698956:instance/i-0bd52d6196ffdcb38,ec2,"[{'Key': 'Name', 'Value': 'desafio3'}]"
+arn:aws:events:us-west-2:909669698956:rule/voc-redshiftapi-cw-rule,events,[]
+arn:aws:events:us-west-2:909669698956:rule/voc-bedrockapi-cw-rule,events,[]
+arn:aws:events:us-west-2:909669698956:rule/voc-codebuild-cw-rule,events,[]
+arn:aws:events:us-west-2:909669698956:rule/voc-ec2-cw-rule,events,[]
+arn:aws:events:us-west-2:909669698956:rule/c198715a5083510l13705438t1w909669698956-EventRule-yEgsDSocZXC7,events,"[{'Key': 'aws:cloudformation:stack-name', 'Value': 'c198715a5083510l13705438t1w909669698956'}, {'Key': 'aws:cloudformation:stack-id', 'Value': 'arn:aws:cloudformation:us-west-2:909669698956:stack/c198715a5083510l13705438t1w909669698956/6c2080a0-2319-11f1-9047-0278ba747e7d'}, {'Key': 'cloudlab', 'Value': 'c198715a5083510l13705438t1w909669698956'}, {'Key': 'aws:cloudformation:logical-id', 'Value': 'EventRule'}]"
+arn:aws:events:us-west-2:909669698956:rule/voc-redshift-cw-rule,events,[]
